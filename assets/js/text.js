@@ -21,7 +21,7 @@ $(function () {
 $(function () {
     $(".typed").typed({
         strings: ['квадох пидор', "мать жива?", "Python программист", "трудовик пидорас"],
-        typeSpeed: 150,
+        typeSpeed: 100,
         loop: true,
         cursorChar: "|",
     });
