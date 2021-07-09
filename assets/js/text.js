@@ -20,7 +20,7 @@ $(function () {
 });
 $(function () {
     $(".typed").typed({
-        strings: ['квадох пидор', "мать жива?", "Python программист", "трудовик пидорас"],
+        strings: ['nonamedaun 16 y.o', "заскамил твою маму на интимки", "Python nedoпрограммист"],
         typeSpeed: 100,
         loop: true,
         cursorChar: "|",
